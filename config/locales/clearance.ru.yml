@@ -1,0 +1,59 @@
+ru: 
+  clearance: 
+    models: 
+      clearance_mailer: 
+        change_password: Изменить пароль 
+  clearance_mailer: 
+    change_password: 
+      closing: Если данное письмо пришло к вам по ошибке, игнорируйте его. 
+        Ваш пароль не остается прежним. 
+      link_text: Изменить мой пароль 
+      opening: "Чтобы изменить свой пароль, перейдите по ссылке:" 
+  flashes: 
+    failure_after_create: Неверный адрес электронной почты или пароль 
+    failure_after_update: Поле "пароль" не может быть пустым 
+    failure_when_forbidden: Проверьте правильность URL-адреса или попробуйте снова 
+    failure_when_not_signed_in: Войдите чтобы продолжить 
+  helpers: 
+    label: 
+      password: 
+        email: Почтовый адрес 
+      password_reset: 
+        password: Введите пароль 
+      session: 
+        password: Пароль 
+      user: 
+        password: Пароль 
+    submit: 
+      password: 
+        submit: Сбросить пароль 
+      password_reset: 
+        submit: Сохранить пароль 
+      session: 
+        submit: Войти 
+      user: 
+        create: Зарегистрироваться
+  layouts: 
+    application: 
+      sign_in: Войти 
+      sign_out: Выйти 
+  passwords: 
+    create: 
+      description: В течении нескольких минут на вашу почту должно прийти сообщение, 
+        содержащее инструкции по смене пароля. 
+    edit: 
+      description: Ваш пароль был сброшен. Введите новый пароль. 
+      title: Изменить пароль 
+    new: 
+      description: Введите свой почтовый адрес для получения ссылки на сброс пароля. 
+      title: Сбросить пароль 
+  sessions: 
+    form: 
+      forgot_password: Забыли пароль? 
+      sign_up: Зарегистрироваться 
+    new: 
+      title: Войти 
+  users: 
+    new: 
+      sign_in: Войти 
+      title: Зарегистрироваться

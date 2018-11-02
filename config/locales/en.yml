@@ -30,4 +30,9 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+
+  account: "Account"
+  sign_out: "Sign out"
+  sign_in: "Sign in"
+  hello: "Welcome to FitnessBuddy!"
+
